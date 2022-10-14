@@ -1,4 +1,8 @@
 /*
+#============================================================#
+# Nome: Lucas Dutra Tavares - Turma: M1                      #
+# TRABALHO NÚMEROS                                           #
+#============================================================#  
 Faça um programa que solicita do usuário uma série de números, cada número pode ser um
 int, float ou double. Antes de solicitar o número pergunte qual tipo de dado o usuário vai entrar.
 Todos os números entrados devem ser armazenados num buffer único. Esse buffer deve ter tamanho
